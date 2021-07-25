@@ -1,0 +1,22 @@
+[
+    { CompaniesName:"AT & T" },
+    { CompaniesName:"Verizon" },
+    { CompaniesName:"Comcast XFINITY" },
+    { CompaniesName:"Charter Spectrum" },
+    { CompaniesName:"Time Warner Cable" },
+    { CompaniesName:"Cox" },
+    { CompaniesName:"Vodafone" },
+    { CompaniesName:"BrightHouse" },
+    { CompaniesName:"Claro" },
+    { CompaniesName:"Millenicom" },
+    { CompaniesName:"Turknet" },
+    { CompaniesName:"Turk Telekom" },
+    { CompaniesName:"Turkcell" },
+    { CompaniesName:"Telmex" },
+    { CompaniesName:"iinet" },
+    { CompaniesName:"T-mobile" },
+    { CompaniesName:"Allnet" },
+    { CompaniesName:"STC" },
+    { CompaniesName:"Romtelecom" },
+    { CompaniesName:"Telekom Romania" }
+]
