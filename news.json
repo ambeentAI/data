@@ -1,5 +1,5 @@
 [
-    { Content:"Ambeent was selected one of the 50 best San Francisco based Developer Platform companies of 2021 by BestStartup.us.", Link:"https://beststartup.us/50-top-san-francisco-developer-platform-companies-and-startups-of-2021/" },
+    	{ Content:"Ambeent was selected one of the 50 best San Francisco based Developer Platform companies of 2021 by BestStartup.us.", Link:"https://beststartup.us/50-top-san-francisco-developer-platform-companies-and-startups-of-2021/" },
 	{ Content: "Ambeent presented its Managed Wi-Fi approach at the CableLabs Webinar alongside Facebook and Calix on June 16th, 2021.", Link: "https://twitter.com/ambeentwifi/status/1405236480138678272"},
 	{ Content: "Ambeent is now a member of Hospitality Technology Next Generation Association that fosters the development of technology solutions for the hospitality sector.", Link: "https://www.htng.org"},
 	{ Content: "Ambeent is awarded a pre-purchased product grant by the National Research Agency.", Link: "https://www.tubitak.gov.tr/tr/duyuru/siparise-dayali-ar-ge-projeleri-icin-kobi-destekleme-cagrisi-siparis-ar-ge-2020-sonuclari-aciklandi"},
@@ -13,8 +13,8 @@
 	{ Content: "Ambeent is awarded the highly competitive European Union grant under the prestigious EIC Accelerator program (aka SME Instrument, Phase 2).", Link: "https://twitter.com/ambeentwifi/status/1204030645577691136?s=12"},
 	{ Content: "Ambeent is selected among top 3 for Best Startup Award by Wi-Fi NOW 2019 Awards.", Link: "https://wifinowevents.com/news-and-blog/who-will-win-the-wi-fi-now-awards-shortlists-announced-here/"},
 	{ Content: "Ambeent is selected as one of Hello Tomorrow’s Deep Tech Pioneers among more than 5,000 applicants from 128 different countries.", Link: "https://www.hello-tomorrow.org.tr/en/our-activities/for-startups/"},
-	{ Content: "Ambeent is nominated for "The Graham Bell Award for Best Communication Solutions" at 2019 SPIFFY by the Telecom Council.", Link: "https://www.prweb.com/releases/2019_spiffy_award_nominees_announced_communications_industry_s_innovative_startups/prweb16532210.htm"},
-	{ Content: "Ambeent receives "Seal of Excellence” Certificate from  the European Commission in 2019.", Link: "./assets/Seal-of-Excellence.pdf"},
-	{ Content: "Ambeent Wi-Fi is selected among top five for "Startup of the Year” award by the Mobile World Congress (MWC)  two years in a row (MWC Shanghai 2019, MWC Americas 2018).", Link: "https://www.innovatorsmag.com/tech-pioneers-prepare-for-china-pitch/"},
+	{ Content: "Ambeent is nominated for ”The Graham Bell Award for Best Communication Solutions” at 2019 SPIFFY by the Telecom Council.", Link: "https://www.prweb.com/releases/2019_spiffy_award_nominees_announced_communications_industry_s_innovative_startups/prweb16532210.htm"},
+	{ Content: "Ambeent receives ”Seal of Excellence” Certificate from  the European Commission in 2019.", Link: "./assets/Seal-of-Excellence.pdf"},
+	{ Content: "Ambeent Wi-Fi is selected among top five for ”Startup of the Year” award by the Mobile World Congress (MWC)  two years in a row (MWC Shanghai 2019, MWC Americas 2018).", Link: "https://www.innovatorsmag.com/tech-pioneers-prepare-for-china-pitch/"},
 	{ Content: "Ambeent is selected TOP 100 Startup in Europe by Red Herring in 2019.", Link: "https://www.redherring.com/uncategorized/2019-red-herring-top-100-europe-winners/"}
 ]
